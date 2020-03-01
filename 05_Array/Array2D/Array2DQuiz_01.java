@@ -28,6 +28,7 @@ public class Array2DQuiz_01 {
 	
 
 }
+
 //Q1.
 //1	2	3	4	5	
 //6	7	8	9	10	
